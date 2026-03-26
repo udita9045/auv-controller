@@ -1,3 +1,4 @@
+from navigation import distance, heading
 from pid import PID
 import time
 
